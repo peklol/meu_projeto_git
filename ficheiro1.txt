@@ -1,4 +1,5 @@
 Este é o exemplo de um ficheiro de texto...
 
+Estou a fazer alteracoes ao ficheiro
 
-AlTERACAO
+ALTERACOES EFETUADAS NO BRANCH 'NOVAFEATURE'
